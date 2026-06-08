@@ -1,0 +1,16 @@
+# Dependencies
+demo/node_modules/
+
+# Build outputs
+demo/dist/
+
+# Vite cache
+demo/.vite/
+
+# TypeScript build info
+demo/node_modules/.tmp/
+
+# Misc
+*.mp4
+video_frames/
+Nuova cartella/
